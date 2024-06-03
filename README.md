@@ -5,18 +5,18 @@
 ### 안녕하세요 어진희입니다
 
 
--🔭I’m currently learning Java
+- 🔭I’m currently learning Java
 
--🌱I’m currently learning JavaScript
+- 🌱I’m currently learning JavaScript
 
--👯I’m currently learning python
+- 👯I’m currently learning python
 
 
 ## advantage
 
--😄I think JavaScript interesting
+- 😄I think JavaScript interesting
 
--🤔I have a lot of thoughts
+- 🤔I have a lot of thoughts
 
 
 
