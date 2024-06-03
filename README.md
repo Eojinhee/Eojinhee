@@ -18,7 +18,8 @@
 
 
 
->Cheer up
+>Cheer up, everyone
+>I want to go home
 
 <!--
 **Eojinhee/Eojinhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
