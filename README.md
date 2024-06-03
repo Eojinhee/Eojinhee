@@ -12,11 +12,14 @@
 - 👯I’m currently learning python
 
 
-## advantage
+## Advantage
 
 - 😄I think JavaScript interesting
 
 - 🤔I have a lot of thoughts
+
+
+
 
 
 
