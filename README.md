@@ -6,7 +6,9 @@
 
 
 -🔭I’m currently learning Java
+
 -🌱I’m currently learning JavaScript
+
 -👯I’m currently learning python
 
 
