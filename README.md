@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## I am a student of Ai software department at Shingu University
 <!--
 **Eojinhee/Eojinhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
