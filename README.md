@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I am a student of Ai software department at Shingu University
+## I am a student of AI software department at Shingu University
 
 ### 안녕하세요 어진희입니다
 
