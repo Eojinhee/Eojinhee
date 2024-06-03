@@ -5,8 +5,9 @@
 ### 안녕하세요 어진희입니다
 
 
--
--
+-🔭I’m currently learning Java
+-🌱I’m currently learning JavaScript
+-👯I’m currently learning python
 
 
 ## Feature
