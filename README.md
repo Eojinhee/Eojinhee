@@ -13,6 +13,7 @@
 
 
 ## advantage
+
 -😄I think JavaScript interesting
 
 -🤔I have a lot of thoughts
@@ -20,7 +21,7 @@
 
 
 >✨ Cheer up, everyone ✨
->
+
 
 <!--
 **Eojinhee/Eojinhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
